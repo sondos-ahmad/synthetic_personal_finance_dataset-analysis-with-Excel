@@ -40,7 +40,7 @@ The goal was to clean and transform the data, create key financial measures, and
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/dashboard.jpg)
 
 ---
 
